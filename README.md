@@ -18,7 +18,7 @@ npm run build
 ## Результат
 
 - GitHub: [holomolo4884/React-To-Do-List-VibeCoder](https://github.com/holomolo4884/React-To-Do-List-VibeCoder).
-- Рабочий сайт: появится после деплоя на Vercel.
+- Рабочий сайт: [react-todo-list-vibecoder.vercel.app](https://react-todo-list-vibecoder.vercel.app/).
 
 ## Использованные AI-инструменты
 
