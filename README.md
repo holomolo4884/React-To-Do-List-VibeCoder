@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Для production-сборки:
+Для продакшена:
 
 ```bash
 npm run build
